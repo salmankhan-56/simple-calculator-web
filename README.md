@@ -1,15 +1,12 @@
 # simple-calculator-web
 
-This repository contains multiple academic code files for practice and learning.
+## Description
+This is a web development mini project created using HTML, CSS and JavaScript.
 
-## Files Included
-- main.py
-- program_1.py
-- program_2.py
-- program_3.py
-- notes.md
+## Files
+- index.html
+- style.css
+- script.js
 
 ## How to Run
-Use Python:
-
-python main.py
+Open index.html in any browser.

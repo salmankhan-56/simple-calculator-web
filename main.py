@@ -1,2 +1,0 @@
-print("Welcome to simple-calculator-web")
-print("This is the main program file.")
